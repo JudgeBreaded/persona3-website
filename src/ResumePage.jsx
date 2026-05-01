@@ -473,7 +473,7 @@ export default function ResumePage({ src }) {
             </div>
           </div>
         )}
-        {active === 2 && (
+        {/* {active === 2 && (
           <div className="resume-detail-panel">
             <div className="resume-detail-top">
               <div className="resume-detail-top-index">01</div>
@@ -500,7 +500,7 @@ export default function ResumePage({ src }) {
               </div>
             </div>
           </div>
-        )}
+        )} */}
       </div>
     </div>
   );
